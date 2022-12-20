@@ -17,7 +17,7 @@
 3.  Po zainstalowaniu Pythona możesz sprawdzić jego wersję, wpisując następujące polecenie:
 **`python3 -V`**
 
-**Aby zainstalować biblioteki openai i discord w systemie Ubuntu, należy wykonać następujące kroki:**
+**Instalacja biblioteki openai i discord w systemie Ubuntu**
 
 - Otwórz terminal i upewnij się, że masz zainstalowane narzędzie **`pip`**, które jest menedżerem pakietów dla języka **Python**. Możesz to sprawdzić, wpisując polecenie **`pip --version`**. Jeśli nie masz zainstalowanego **pip**, możesz go zainstalować, wpisując polecenie **`sudo apt-get install python3-pip`**.
 - Zainstaluj bibliotekę **openai** przy użyciu **pip**. **Wpisz polecenie `pip install openai`**.
