@@ -1,7 +1,7 @@
 import openai
 import discord
 
-openai.api_key = "OPEN_AI_KEY"
+openai.api_key = "<openAI_key>"
 
 client = discord.Client(intents=discord.Intents.all())
 
@@ -29,4 +29,4 @@ async def on_message(message):
     # wyślij odpowiedź od OpenAI do czatu Discord
     await message.channel.send(response["choices"][0]["text"])
 
-client.run("DISCORD_KEY")
+client.run("<discord_bot_token>")
