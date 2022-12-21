@@ -40,6 +40,6 @@
 3. Podmień wartości dla ***openAI_key***
 
 ## Krok 3: Uruchom bota
-Otwórz terminal lub wiersz polecenia
-Przejdź do katalogu, w którym zainstalowałeś bota ChatGPT Discord
-Uruchom ***python3 bot.py***, aby uruchomić bota
+1. Otwórz terminal lub wiersz polecenia
+2. Przejdź do katalogu, w którym zainstalowałeś bota ChatGPT Discord
+3. Uruchom ***python3 bot.py***, aby uruchomić bota
