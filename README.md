@@ -32,14 +32,14 @@
 1. Przejdź do https://discord.com/developers/applications utwórz aplikację
 2. Zbuduj bota Discord pod aplikacją
 3. Pobierz token z ustawienia bota
-4. Podmień wartości dla*** discord_bot_token***
+4. Podmień wartości dla `discord_bot_token`
 
 ## Krok 2: Wygeneruj klucz API OpenAI
 1. Przejdź do https://beta.openai.com/account/api-keys
 2. Kliknij "Utwórz nowy tajny klucz"
-3. Podmień wartości dla ***openAI_key***
+3. Podmień wartości dla `openAI_key`
 
 ## Krok 3: Uruchom bota
 1. Otwórz terminal lub wiersz polecenia
 2. Przejdź do katalogu, w którym zainstalowałeś bota ChatGPT Discord
-3. Uruchom ***python3 bot.py***, aby uruchomić bota
+3. Uruchom `python3 bot.py`, aby uruchomić bota
